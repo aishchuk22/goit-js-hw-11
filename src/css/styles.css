@@ -22,8 +22,9 @@ body {
   justify-content: center;
   align-items: center;
   list-style-type: none;
-  gap: 18px;
+  gap: 20px;
   width: 1128px;
+  padding: 0;
 }
 
 .gallery-item {
